@@ -7,6 +7,7 @@ public class test {
 public static void main(String[] args) {
     String pattern = "dd-MMM-yyyy";
 	String dateInString =new SimpleDateFormat(pattern).format(new Date()); 
-	   System.out.println(dateInString);  
+	   System.out.println(dateInString); 
+	   
 }
 }
