@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	String dateInString =new SimpleDateFormat(pattern).format(new Date()); 
 	   System.out.println(dateInString); 
 	   
+	   
 }
 }
